@@ -1,6 +1,8 @@
 concept map(original): 
 https://drive.google.com/file/d/1PewQ-3sDdQKy1VpYGNBjSvB9mfYX2FK7/view?usp=sharing
+
 concept map(pdf):
+https://github.com/tawsif-r/cse424/blob/main/submission3/concept_map.pdf
 
 
 unlisted youtube video:
