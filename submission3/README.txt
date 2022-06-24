@@ -9,6 +9,8 @@ http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognit
 selected chapter for review:
 chapter 5:Neural Network
 
+group number: 3
+
 Members:
 17101404	Md. Wahidur Rahman Araf
 17301163	Ali Muhtasim
