@@ -12,6 +12,9 @@ Law of Generalization.
 Link to the paper:
 https://arxiv.org/ftp/arxiv/papers/2206/2206.05365.pdf
 
+Group number:
+3
+
 members:
 17101404	Md. Wahidur Rahman Araf
 17301163	Ali Muhtasim
