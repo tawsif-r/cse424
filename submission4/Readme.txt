@@ -1,15 +1,23 @@
-video link:
-https://youtu.be/pEUd53_v_LU
+Unlisted Youtube Video:
+https://www.youtube.com/watch?v=pEUd53_v_LU
 
+Conference login link for submitted paper: https://cmt3.research.microsoft.com/ICISC2023/Submission/Index
 
-Paper link:
-https://drive.google.com/file/d/1EExlxBl-v9QYKYV2CaadIEQneQ7s0LeQ/view?usp=sharing
+Paper Title:  License plate recognition using Machine Learning
 
-Conference link:
-https://cmt3.research.microsoft.com/ICISC2023/Submission/Index#
+Paper Presentation: 
 
+Conference Submission Date:  30 August 2022
 
-Members:
+Paper Submission ID: 2
+
+Conference Name: The 2023 International Conference on Images, Signals, and Computing (ICISC2023)
+
+Conference URL: https://www.icisc-conf.org/
+
+Group no: 3
+
+Group Members:
 17101404	Md. Wahidur Rahman Araf
 17301163	Ali Muhtasim
 18201031	Mohammed Abrar Ahasan Chowdhury
@@ -17,4 +25,4 @@ Members:
 20141002	Siam Sadman
 20141027	MD. TAWSIFUR RAHMAN
 21301732	Asif Tazwar
-19101602  Soyelim Al Rozaik
+19101602        Soyelim Al Rozaik
