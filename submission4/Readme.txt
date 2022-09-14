@@ -6,6 +6,7 @@ Conference login link for submitted paper: https://cmt3.research.microsoft.com/I
 Paper Title:  License plate recognition using Machine Learning
 
 Paper Presentation: 
+https://docs.google.com/presentation/d/17HRsaCZgdmTsQNixNCehLn8FwkPjsmfS/edit?usp=sharing&ouid=104933461418092600072&rtpof=true&sd=true
 
 Conference Submission Date:  30 August 2022
 
